@@ -1,0 +1,10 @@
+wc -l intruder.txt
+sort -u intruder.txt >_intruder.txt
+
+
+depois coloca o viewstate do site pro intruder
+
+add $ 
+
+
+$ id
